@@ -25,10 +25,12 @@ img {
     padding: 3px;
 }
 .special{
-	width: 620px;
+    width: 620px;
     min-height: 200px;
     max-height: 200px;
     margin: 3px;
     padding: 3px;
 }
-
+.special2{
+	float: left;
+}
