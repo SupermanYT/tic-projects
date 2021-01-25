@@ -1,4 +1,6 @@
-/*only made by mondoc*/
+/*only made by mondoc
+am folosit un css ca era mai usor sa scriu un css pentru 10 proiecte
+*/
 html,body {
   height:100%;
   margin:10;
@@ -22,6 +24,14 @@ p2{
 h1 {
   font-family: "Trebuchet MS", sans-serif;
   text-align: center;
+}
+back {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 23px;
+  text-align: left;
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
 }
 img {
     margin: 3px;
