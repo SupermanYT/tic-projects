@@ -4,7 +4,6 @@ am folosit un css ca era mai usor sa scriu un css pentru 10 proiecte
 html,body {
   height:100%;
   margin:10;
-  overflow:hidden;
   padding:10;
   background-color:#bad5ff;
   
