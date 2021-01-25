@@ -1,0 +1,29 @@
+html,body {
+  height:100%;
+  margin:10;
+  overflow:hidden;
+  padding:10;
+  background-color:#bad5ff;
+  
+}
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: justify;
+}
+p1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 15px;
+  text-align: justify;
+}
+h1 {
+  font-family: "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+img {
+    width: 620px;
+    min-height: 200px;
+    max-height: 200px;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
