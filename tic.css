@@ -29,8 +29,8 @@ img {
 }
 .special{
     width: 620px;
-    min-height: 200px;
-    max-height: 200px;
+    min-height: 400px;
+    max-height: 400px;
     margin: 3px;
     padding: 3px;
 }
